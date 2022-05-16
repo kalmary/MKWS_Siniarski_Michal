@@ -33,4 +33,3 @@ plt.plot(flame.grid*100, flame.T, "-")
 plt.xlabel("x [cm]")
 plt.ylabel("T [K]")
 plt.show()
-kupa kupa kupa
